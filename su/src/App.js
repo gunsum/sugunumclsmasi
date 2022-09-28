@@ -4,8 +4,8 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <h1>su yun sayfasi</h1>
-      <h2>GUN un basligi</h2>
+      <h1>GitHub vs Git</h1>
+      <h2>introduction</h2>
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
